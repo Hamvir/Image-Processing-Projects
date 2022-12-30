@@ -15,6 +15,8 @@ The task is to first downsample the image by a factor of 3 then upsample it to o
 2) Bilinear Interpolation
 ## PART 3 (Spatial Domain Filtering)
 The task is to do image sharpening(sharpen the blurred image) by using high boost filtering.
+
+All functions have been implemented without using any libraries
 ## How to use:
 >Download the ipynb file.
 
